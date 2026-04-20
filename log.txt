@@ -1,0 +1,15 @@
+sleep 5 &
+ sleep 5 &
+sleep 5 &
+proclore
+sleep 5 &
+echo sleep 5
+sleep 5
+iman sleep
+iman sleepe
+iman sleep
+iman sleep bukake
+git
+tree
+tree ..
+make
